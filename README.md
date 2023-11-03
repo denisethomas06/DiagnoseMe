@@ -20,5 +20,5 @@ https://www.nhsinform.scot/symptoms-and-self-help/a-to-z/
 
 https://www.ecdc.europa.eu/en/all-topics
 
-# Contributors
+# Contributor
 Denise Thomas
